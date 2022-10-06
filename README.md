@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<img width="180" alt="React" src="https://user-images.githubusercontent.com/50922820/194340414-686f4d6f-b56f-4f58-96a4-4d4d045202fa.png">
+<img width="180" alt="React" src="https://user-images.githubusercontent.com/50922820/194427732-c81ecbe5-ccad-4f9f-9709-2d86d8000801.png">
 
 </p>
 
